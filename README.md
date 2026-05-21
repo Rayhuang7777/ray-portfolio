@@ -53,45 +53,6 @@ Photography and video production through student organizations and campus media 
 
 ---
 
-## Local Development
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/ray-portfolio.git
-```
-
-Open:
-
-```bash
-index.html
-```
-
-or run locally:
-
-```bash
-python -m http.server
-```
-
-Then visit:
-
-```txt
-http://localhost:8000
-```
-
----
-
-## Deployment
-
-Hosted with GitHub Pages.
-
-Site URL:
-
-```txt
-https://YOUR_USERNAME.github.io/ray-portfolio/
-```
-
----
 
 ## Future Updates
 
