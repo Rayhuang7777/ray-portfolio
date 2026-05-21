@@ -1,35 +1,141 @@
-# Personal Website Project
+# Ray Wong — Student Portfolio Website
 
-## Project Overview
+A modern personal portfolio website designed for university applications.
 
-This is my personal website for college application and portfolio presentation.
+Built to showcase academic interests, projects, leadership experiences, and creative work in a clean and technology-inspired style.
 
-## Purpose
+---
 
-The website is designed to showcase my academic interests, personal projects, creative work, and future goals.
+## Preview
 
-## Website Sections
+The website includes:
 
-- Home
+- Hero Section
 - About Me
 - Projects
-- Resume
-- Contact
+- Resume Timeline
+- Contact Section
 
-## Tools Used
+---
 
-- HTML
-- CSS
-- GitHub
-- AI Assistant
+## About Me
 
-## What I Learned
+Hi, I'm **Ray Wong**, a high school student interested in:
 
-Through this project, I learned how to plan a website, edit HTML and CSS, use GitHub to manage code, and publish my work online.
+🎸 Music Performance  
+🎥 Film & Media Production  
+📸 Photography  
+🌍 Youth Cultural Projects  
+📖 Philosophy & Liberal Arts  
 
-## Future Improvements
+I enjoy creating projects that connect creativity with social impact.
 
-- Add more projects
-- Improve mobile design
-- Add videos and images
-- Connect a custom domain
+---
+
+## Featured Projects
+
+### FREE Floating Music Festival
+
+A youth music initiative supporting high school musicians and live performances.
+
+**Role:** Founder / Organizer
+
+Goals:
+
+- Build opportunities for student musicians
+- Connect schools and communities
+- Encourage youth creativity
+
+---
+
+### Short Film Project
+
+An experimental short film exploring the influence of digital media and short-form content on modern life.
+
+---
+
+### Student Media Studio
+
+Photography and video production through student organizations and campus media projects.
+
+---
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- Responsive Design
+- GitHub Pages
+
+---
+
+## Local Development
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/ray-portfolio.git
+```
+
+Open:
+
+```bash
+index.html
+```
+
+or run locally:
+
+```bash
+python -m http.server
+```
+
+Then visit:
+
+```txt
+http://localhost:8000
+```
+
+---
+
+## Deployment
+
+Hosted with GitHub Pages.
+
+Site URL:
+
+```txt
+https://YOUR_USERNAME.github.io/ray-portfolio/
+```
+
+---
+
+## Future Updates
+
+Planned features:
+
+- Media Gallery
+- Project Case Studies
+- Interactive Timeline
+- Animation Effects
+- Application Portfolio Section
+- University Journey Page
+
+---
+
+## Contact
+
+Email:
+
+```txt
+your@email.com
+```
+
+Instagram:
+
+```txt
+@youraccount
+```
+
+---
+
+© 2026 Ray Wong Portfolio
