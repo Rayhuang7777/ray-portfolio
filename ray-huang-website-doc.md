@@ -74,30 +74,46 @@ The website is designed to:
 ## 5. Site Structure
 
 ```
-rayhuang7777.github.io/
-│
-├── index-dark.html          ← Main homepage (all sections)
-├── photography.html         ← Full photography portfolio page
-└── photos/                  ← (To be added) image assets
-    ├── hero.jpg
-    ├── p1.jpg – p12.jpg
-    └── series-*.jpg
+## Navigation
+
+The website is designed as a single-page portfolio with quick navigation links.
+
+| Section | Purpose |
+|---------|---------|
+| About | Personal introduction and background |
+| Projects | Featured initiatives and creative work |
+| Photography | Selected visual archive |
+| CV | Academic profile and résumé |
+| Essays | Long-form writing and reflections |
+| Contact | Ways to connect |
+
+Quick Access:
+
+• [About](#about)
+
+• [Projects](#projects)
+
+• [Photography](#photography)
+
+• [CV](#cv)
+
+• [Essays](#essays)
+
+• [Contact](#contact)
 ```
 
 ### 5.1 Homepage Sections
 
-| # | Section | Content |
-|---|---|---|
-| 1 | **Hero** | Name, headline, tagline, identity badges, CTA |
-| 2 | **About** | Personal statement + metadata table |
-| 3 | **Projects** | 4 featured projects with tags and descriptions |
-| 4 | **Photography** | Mosaic preview + link to full portfolio |
-| 5 | **Films** | 2 film entries (one complete, one in production) |
-| 6 | **Essays** | 3 essay titles with snippets and dates |
-| 7 | **Journal** | 3 short journal entries |
-| 8 | **Central Inquiry** | The guiding research question |
-| 9 | **Contact** | Email, GitHub, Rednote |
+## Homepage Sections
 
+| # | Section | Description |
+|---|---|---|
+| 1 | About | Personal introduction, identity, interests, and current work |
+| 2 | Projects | Featured initiatives, festivals, documentaries, research, and leadership experiences |
+| 3 | Photography | Selected photographs and visual storytelling |
+| 4 | CV | Downloadable résumé and academic profile |
+| 5 | Essays | Published essays, notes, and ongoing reflections |
+| 6 | Contact | Email, GitHub, Rednote and collaboration inquiries |
 ---
 
 ## 6. Technologies Used
@@ -117,10 +133,9 @@ No frameworks, no build tools, no dependencies. The entire site is a single `.ht
 ## 7. Content Inventory
 
 ### Projects
-- [x] Floating Music Festival — Chongqing (2024)
-- [x] Youth in the Short-Video Era — documentary (2024)
-- [x] Campus Visual Archive — photography (2023–24)
-- [x] Model United Nations (2023–25)
+- [x] Free Music Festival — Chongqing (2026)
+- [x] Youth in the Short-Video Era — documentary (2026)
+- [x] Model United Nations (2024–26)
 
 ### Photography
 - [ ] Hero image (needed)
